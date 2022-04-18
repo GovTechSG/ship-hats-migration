@@ -9,6 +9,6 @@ We will iteratively release details as soon as we are able to share in line with
 **Topics**
 - [Overview](ship-hats-migration-overview)
 - [What to Expect](ship-hats-migration-what-to-expect)
-<!--- [Migration]()
-- [Change Management]()
-- [Annex]()-->
+- [Migration](ship-hats-migration)
+- [Change Management](ship-hats-migration-change-management)
+- [Annex](ship-hats-migration-annex)
