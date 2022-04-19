@@ -26,8 +26,8 @@ We recommend that you consider non-CII/SII systems that are deployed to GCC Inte
     1. CD pipeline minimally extracts packages from artifact repo, performs SCA, connects to target environment for GCC internet and through a remote agent in DevOps zone for GCC intranet and deploys
 1.	**Configure and Test CI Pipeline:**
     1.	Configure dedicated agents.
-    1.	Identify automated template from GovTech to set up CI pipeline and configured
-    1.	Test run CI Pipeline until success criteria is met
+    1.	Identify automated template from GovTech to set up CI pipeline and configured.
+    1.	Test run CI Pipeline until success criteria is met.
 1.	**Establish connectivity with your target environment:** 
     1. Whitelist relevant firewall.
     1. Create relevant service accounts/principles for SHIP-HATS to connect to GCC environments.
@@ -38,9 +38,9 @@ We recommend that you consider non-CII/SII systems that are deployed to GCC Inte
 
 ## Migration Flow Details
 
-1.	Verify that the source code is migrated.
+1. Verify that the source code is migrated.
 1. Verify that the dedicated agents are operational.
-2.	Adapt and test CI/CD pipeline from the Sandbox Testing: 
+2. Adapt and test CI/CD pipeline from Sandbox Testing: 
     1. Ensure pipeline requirements, variables, and secrets are configured.
     1. Adapt CI/CD pipeline configuration used in Sandbox Testing to your production environment.
     1. Test CI/CD pipeline until success criteria is met.
