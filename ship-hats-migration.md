@@ -21,7 +21,7 @@ Following table and image provide high-level migration phases and key activities
 Configure the pipeline on the sandbox environments and test connectivity with your hosting environment. 
 
 ### Sandbox Migration Options
-Agencies can opt for 4-, 6- or 12-week Sandbox Migration depending your DevSecOps maturity, team availability and system readiness. We will open a booking system for you to submit your request. 
+Agencies can opt for 4-, 6-, or 12-week Sandbox Migration depending your DevSecOps maturity, team availability and system readiness. We will open a booking system for you to submit your request. 
 
 ### Configure using Templates
 To ease your configuration effort, we will provide a library of SHIP-HATS pipeline templates you can leverage to configure the pipeline. These templates will have best practices in security compliance and performance metrics baked in. The types will include use-case based and modular templates.
@@ -40,7 +40,7 @@ We will be testing this flow during our 2.0 migration pilots and iteratively imp
 
 >**Note:** The pipeline(s) configured in Sandbox Migration will be reused and adapted for 2.0 Migration. 
 
-For more information, refer to [Annex: Migration Flow Details](ship-hats-migration-annex).
+For more information, refer to [Annex: Sandbox Testing Flow Details](ship-hats-migration-annex).
 
 
 ## 2.0 Migration 
