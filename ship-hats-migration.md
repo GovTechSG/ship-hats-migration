@@ -1,75 +1,71 @@
-# Migration
+# Migration Approach
+
+Following table and image provide high-level migration phases and key activities. We will be iteratively adding more details. 
 
 | **Phase** | **Sandbox Testing** | **Migration** |
 | --- | --- | --- |
 | Details | Prepare target environment<br>Configure pipeline in Sandbox| Migrate Source Code Repository<br>Configure piepline in actual environment|
-| Duration Choice | 4 weeks<br>6 weeks<br>12 weeks| 4 weeks<br>6 weeks<br>12 weeks |  
+| Duration Choice | Choose from 4, 6, or 12 weeks option| Choose from 2, 4, or 6 weeks option |  
+
+![Migration Approach](migration-approach.png)
 
 **Topics**
-- [Sandbox Testing](#sandbox-testing)
+- [Sandbox Testing](#phase-sandbox-testing)
 - [2.0 Migration](#20-migration)
 - [Training](#training)
 
-## Sandbox Testing
+## Phase: Sandbox Testing
+
 
 ### Goal
+Configure the pipeline on the sandbox environments and test connectivity with your hosting environment. 
 
 ### Sandbox Migration Options
-
+Agencies can opt for 4-, 6- or 12-week Sandbox Migration depending your DevSecOps maturity, team availability and system readiness. We will open a booking system for you to submit your request. 
 
 ### Configure using Templates
+To ease your configuration effort, we will provide a library of SHIP-HATS pipeline templates you can leverage to configure the pipeline. These templates will have best practices in security compliance and performance metrics baked in. The types will include use-case based and modular templates.
 
 ### Flow
+We will be testing this flow during our 2.0 migration pilots and iteratively improve on it. Based on these tests, we can offer recommendations on effort estimation for your systems.  
 
+1.	Clone your Project Repository from Bitbucket to SHIP-HATS 2.0. 
+1.	Verify the clone is successful
+1.	Define success criteria for the CI/CD pipelines
+1.	Use the templates from GovTech to configure CI Pipeline
+1.	Test run CI Pipeline
+1.	Established connectivity with your target environment 
+1.	Use the templates from GovTech to configure CD Pipeline
+1.	Test run CD Pipeline with at least a deployment to UAT/pre-production environments.  
+
+>**Note:** The pipeline(s) configured in Sandbox Migration will be reused and adapted for 2.0 Migration. 
+
+For more information, refer to [Annex: Migration Flow Details](ship-hats-migration-annex).
 
 
 ## 2.0 Migration 
 
 ### Goal
+After you have successfully tested in the sandbox environment, you can start migrating projects  to the SHIP-HATS 2.0. The migration is completed when you run your end-to-end CI/CD with tools in SHIP-HATS 2.0 with no dependencies on SHIP-HATS 1.0. 
 
 ### 2.0 Migration Options
-
+Agencies can opt for 2-, 4- or 6-week 2.0 Migration depending on project status and other dependencies. We recommended starting 2.0 Migration as soon as you sign off sandbox testing to maximise on the lessons learnt while avoiding any drift in source code and pipelines.
 ### Flow
 
+We will be testing this flow during our 2.0 migration pilots and iteratively improve on it.  After GovTech  migrates the source code repository, the agency team can:
+1.	Verify the source code migrated.
+1.	Adapt and test CI/CD pipeline from the Sandbox Testing. 
+
+For more information, refere to [Annex: Migration Flow Details](ship-hats-migration-annex).
+
 ## Training
+We will be rolling multi-format training to ensure the teams are skilled for the migration and adoption of best practices. 
 
 ### Content
+We are developing documentation and training material to:  
+- Learn the tools with SHIP-HATS 2.0 
+- Understand and use the pipeline templates for security and compliance best practices
 
+The content will be tailored for Project Managers, Business Analysts, and will provide a deeper technical training for Developers. The training will be open for both public officers and vendors. 
 
-
-<!--
-We are upgrading to SHIP-HATS 2.0 to a modern and updated CI/CD Platform on Software-as-a-Service (SaaS) offering a more seamless experience for Agencies to implement an end-to-end CI/CD solution.  
-
-**Topics**
-- [Timelines](#timelines)
-- [Pricing](#pricing)
-- [Staggered Migration](#staggered-migration)
-- [Summary](#summary)
-
-## Timelines
-
-We have completed evaluating SaaS CI/CD tools based on various factors (such as product offering, migration effort, feature roadmap, and SaaS hosting in Singapore) and procurement process is in progress. We are on track to offer SHIP-HATS 2.0 for pilots in this Q1' FY22. 
-
-Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
-
-## Pricing
-For all planning purposes, you can refer to Standard Pricing. We will announce the details on the new subscription prices before Q2’ FY22. Be assured that we will buffer sufficient time to seek any pricing approvals necessary for the transition.  
-
-
-## Staggered Migration
-
-We want our users to have minimal disruptions. Therefore, we are taking a careful approach of doing several pilots in Q1' FY22 to shape the migration strategy. We will then test the same on GovTech GDS customers on SHIP-HATS in Q2' FY22 and further fine tune.  
-
-In Q3' FY22, we will be inviting Agencies to start migrations. We recommend to pilot with Lower-Risk-Systems and then scale to others and agencies. 
- 
-
-## Summary
-
-| **Timeline** | **Key Milestone** | **Status** |
-| --- | --- | --- |
-| Q4' FY21 | Complete evaluation of SaaS CI/CD tools  | Complete. <br> Procurement is in progress. |
-| Q1' FY22 | Complete procurement<br>Release pricing<br>Pilots and Testing<br>SHIP-HATS 2.0. Roadshow | On Track |  
-| Q2' FY22 | Roll-out of SaaS based SHIP-HATS 2.0 for new users<br>Migrate GovTech GDS teams on SHIP-HATS 2.0 | To be started |  
-| Q3' FY22 | Staggered migration of current users from Agencies | To be started |  
-
--->
+Training format will include self-paced materials, monthly webinars, and hands-on workshop. We will announce training schedule in Q2' FY22. 
