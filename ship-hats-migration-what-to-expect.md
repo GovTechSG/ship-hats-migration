@@ -10,12 +10,12 @@ We are upgrading to SHIP-HATS 2.0, a modern and updated CI/CD Platform on Softwa
 
 ## Timelines
 
-We have completed evaluating SaaS-based CI/CD tools based on factors such as product offering, migration effort, feature roadmap, and SaaS hosting in Singapore. The procurement process is in progress. We are on track to pilot SHIP-HATS 2.0 in this quarter, Q1FY22. The pilots are by invitation only. 
+We have completed evaluating SaaS-based CI/CD tools based on factors such as product offering, migration effort, feature roadmap, and SaaS hosting in Singapore. The procurement process is in progress. We are on track to pilot and test SHIP-HATS 2.0 in Q1' FY22. The pilots are by invitation only. 
 
 Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
 
 ## Pricing
-For all planning purposes, you can refer to [Standard Pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx). We will announce the details on the new subscription prices before Q2’ FY22. We will help Agencies migrate the current subscription to SHIP-HATS 2.0 subscription model including signing the updated Service Agreements. 
+For all planning purposes, you can refer to current [Standard Pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx). We will announce the details on the new subscription prices by early Q2’ FY22. We will help Agencies migrate the current subscription to SHIP-HATS 2.0 subscription model including signing of an updated Service Agreements. 
 
 ## Staggered Migration
 
@@ -27,10 +27,10 @@ In Q3' FY22, we will be inviting Agencies to start migration. We recommend to pi
 
 | **Timeline** | **Key Milestone** | **Status** |
 | --- | --- | --- |
-| <br>Q4' FY21 | <br>Complete evaluation of SaaS CI/CD tools  | Complete. <br> Procurement is in progress. |
-| <br>Q1' FY22 | Complete procurement, annouce release, and release pricing table<br>Pilots (by invitation only) and Testing<br>SHIP-HATS 2.0. Roadshow | <br>On Track |  
-| <br><br>Q2' FY22 | Roll-out SHIP-HATS 2.0 for new users:<br><ul><li>Migrate GovTech GDS teams to SHIP-HATS 2.0</li><li>Onboard new users to SHIP-HATS 2.0</li></ul> | <br><br>To be started |  
-| <br>Q3' FY22 |Staggered migration of current agency users from SHIP-HATS 1.0. to SHIP-HATS 2.0.| <br>To be started |  
+| <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level migration approach ready</li><li>Training approach ready</li><li>Migration documentation launched</li></ul> | <br>Done|
+| <br>Q1' FY22 | <ul><li>Complete tool procurement</li><li>Test with pilots (by invitation only)</li></ul> | <br>In progress |  
+| <br>Q2' FY22 | <ul><li>Announce tools and release pricing table</li><li>Launch SHIP-HATS 2.0 Webinars and Workshops</li><li>Roll-out SHIP-HATS 2.0 for new users:<ul><li>Migrate GovTech GDS teams to SHIP-HATS 2.0</li><li>Onboard new users to SHIP-HATS 2.0</li></ul></li></ul> | <br>To be started |  
+| <br>Q3' FY22 - Q2' FY23| <ul><li>Migrate current agency users from SHIP-HATS 1.0. to SHIP-HATS 2.0 in phases.</li></ul>| <br>To be started |  
 
 **Support for SHIP-HATS 1.0 will continue for at least 1 year from the roll out of SHIP-HATS 2.0 for all users.**
 

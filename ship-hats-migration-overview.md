@@ -31,3 +31,5 @@ We are taking the opportunity to move to a SaaS model that enables you to enjoy 
 - **Ease of compliance:** Automated DevSecOps capabilities and pipeline-as-a-code to comply with the new DevSecOps Policy easily 
 - **Performance Management Dashboard:** Value-Stream Measurement capabilities that allow Agencies to capture key industry metrics, such as lead time to deployment and deployment frequency, to monitor the effectiveness of their DevSecOps practices 
 - **Ease of access:** Secure and VPN-less access to the SHIP-HATS 2.0 platform  
+
+>**Note:** The benefits will be rolled out in phases.
