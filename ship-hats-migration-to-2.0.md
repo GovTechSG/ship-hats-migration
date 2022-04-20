@@ -6,7 +6,7 @@ This is a guide for SHIP-HATS users to plan the migration of their systems from 
 **Topics**
 - [Overview](ship-hats-migration-overview)
 - [What to Expect](ship-hats-migration-what-to-expect)
-- [Migration](ship-hats-migration)
+- [Migration Approach](ship-hats-migration)
 - [Change Management](ship-hats-migration-change-management)
 - [Annex](ship-hats-migration-annex)
 
