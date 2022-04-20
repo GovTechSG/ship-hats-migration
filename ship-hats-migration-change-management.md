@@ -8,10 +8,10 @@ We will guide you through the internal processes such as estimating migration ef
 
 ## What you can do now
 
-1.	**Identify 1st system to migrate Plan:** Evaluate your systems on SHIP-HATS and identify a system based on System for Early Migration recommendations.
-2.	**Plan timeline:** Based on the high-level migration approach, identify the best suited time for migration.
+1.	**Identify 1st system to migrate Plan:** Evaluate your systems on SHIP-HATS and identify a system based on [System for Early Migration](ship-hats-migration-annex) recommendations.
+2.	**Plan timeline:** Based on the high-level [migration approach](ship-hats-migration), identify the best suited time for migration.
 3.	**Heads up stakeholders:** Prepare your stakeholders on the upcoming migration and possible budget approvals to support the effort. 
-4.	**Let us know:** If you have dependencies that are time sensitive, log a ticket http://go.gov.sg/she with description of the systems, the time constraints, and information that you require. We will engage on a case-by-case basis for urgent requirements. 
+4.	**Let us know:** If you have dependencies that are time sensitive, [Log a ticket](http://go.gov.sg/she) with description of the systems, the time constraints, and information that you require. We will engage on a case-by-case basis for urgent requirements. 
 
 ## Upcoming Migration Updates
 
