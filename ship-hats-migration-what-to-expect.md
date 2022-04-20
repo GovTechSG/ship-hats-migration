@@ -27,28 +27,9 @@ In Q3' FY22, we will be inviting Agencies to start migration. For more informati
 
 | **Timeline** | **Key Milestone** | **Status** |
 | --- | --- | --- |
-| <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration) ready</li><li>[Training approach](ship-hats-migration) ready</li><li>Migration documentation launched</li></ul> | <br>Done|
+| <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration) ready</li><li>[Training approach](ship-hats-migration#training) ready</li><li>Migration documentation launched</li></ul> | <br>**Completed**|
 | <br>Q1' FY22 | <ul><li>Complete tool procurement</li><li>Test with pilots (by invitation only)</li></ul> | <br>In progress |  
 | <br>Q2' FY22 | <ul><li>Announce tools and release pricing table</li><li>Launch SHIP-HATS 2.0 Webinars and Workshops</li><li>Roll-out SHIP-HATS 2.0 for new users:<ul><li>Migrate GovTech GDS teams to SHIP-HATS 2.0</li><li>Onboard new users to SHIP-HATS 2.0</li></ul></li></ul> | <br>To be started |  
 | <br>Q3' FY22 - Q2' FY23| <ul><li>Migrate current agency users from SHIP-HATS 1.0. to SHIP-HATS 2.0 in phases.</li></ul>| <br>To be started |  
 
 **Support for SHIP-HATS 1.0 will continue for at least 1 year from the roll out of SHIP-HATS 2.0 for all users.**
-
-<!--
-| **Timeline** | **Key Milestone** | **Status** |
-| --- | --- | --- |
-| Q4FY21 | <ul><li>Complete evaluation of SaaS CI/CD tools </li></ul> | Complete. <br> Procurement is in progress |
-| Q1FY22 | <ul><li>Complete procurement</li><li>Release pricing</li><li>Pilots and Testing</li><li>SHIP-HATS 2.0. Roadshow</li></ul> | On Track |  
-| Q2FY22 | <ul><li>Roll-out of SaaS based SHIP-HATS 2.0 for new users</li><li>Migrate GovTech GDS teams on SHIP-HATS 2.0</li></ul> |  |  
-| Q3FY22 | <ul><li>Staggered migration of current users from Agencies</li></ul> |  |  
--->
-<!--
-| **Timeline** | **Key Milestone** | **Status** |
-| --- | --- | --- |
-| Q4FY21 | Complete evaluation of SaaS CI/CD tools  | Complete. <br> Procurement is in progress |
-| Q1FY22 | <ul><li>Complete procurement</li><li>Release pricing</li><li>Pilots and Testing</li><li>SHIP-HATS 2.0. Roadshow</li></ul> | On Track |  
-| Q2FY22 | <ul><li>Roll-out of SaaS based SHIP-HATS 2.0 for new users</li><li>Migrate GovTech GDS teams on SHIP-HATS 2.0</li></ul> |  |  
-| Q3FY22 | Staggered migration of current users from Agencies |  |  
-
-<br>
--->
