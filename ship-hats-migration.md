@@ -42,7 +42,7 @@ We will test this flow during our 2.0 migration pilots and iteratively improve o
 
 >**Note:** The pipeline(s) configured in Sandbox Migration will be reused and adapted for 2.0 Migration. 
 
-For more information, refer to [Annex: Sandbox Testing Flow Details](ship-hats-migration-annex).
+For more information, refer to [Annex: Sandbox Testing Flow Details](ship-hats-migration-annex#sandbox-testing-flow-details).
 
 
 ## Migration 
@@ -58,7 +58,7 @@ We will test this flow during our 2.0 migration pilots and iteratively improve o
 1.	Verify the source code migrated.
 1.	Adapt and test CI/CD pipeline from the Sandbox Testing. 
 
-For more information, refer to [Annex: Migration Flow Details](ship-hats-migration-annex).
+For more information, refer to [Annex: Migration Flow Details](ship-hats-migration-annex#migration-flow-details).
 
 ## Training
 We will roll out multi-format training to ensure the teams are skilled for the migration and adoption of best practices. 

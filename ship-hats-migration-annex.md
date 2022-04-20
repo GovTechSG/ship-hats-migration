@@ -40,7 +40,7 @@ We recommend that you consider non-CII/SII systems that are deployed to GCC Inte
 
 1. Verify that the source code is migrated.
 1. Verify that the dedicated agents are operational.
-2. Adapt and test CI/CD pipeline from Sandbox Testing: 
+1. Adapt and test CI/CD pipeline from Sandbox Testing: 
     1. Ensure pipeline requirements, variables, and secrets are configured.
     1. Adapt CI/CD pipeline configuration used in Sandbox Testing to your production environment.
     1. Test CI/CD pipeline until success criteria is met.

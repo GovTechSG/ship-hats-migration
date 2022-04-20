@@ -21,13 +21,13 @@ For all planning purposes, you can refer to current [Standard Pricing](https://s
 
 We want our users to have minimal disruptions. Therefore, we are taking a careful approach of doing several pilots in Q1' FY22 to shape the migration strategy. We will then test the same on GovTech Government Digital Services (GDS) customers on SHIP-HATS in Q2' FY22 and further fine tune.  
 
-In Q3' FY22, we will be inviting Agencies to start migration. For more information on how to choose projects for migration, refer to [System for Early Migration](ship-hats-migration-annex) in the Annex section. 
+In Q3' FY22, we will be inviting Agencies to start migration. For more information on how to choose projects for migration, refer to [System for Early Migration](ship-hats-migration-annex#systems-for-early-migration) in the Annex section. 
 
 ## Summary
 
 | **Timeline** | **Key Milestone** | **Status** |
 | --- | --- | --- |
-| <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration) ready</li><li>[Training approach](ship-hats-migration#training) ready</li><li>Migration documentation launched</li></ul> | <br>**Completed**|
+| <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration#migration) ready</li><li>[Training approach](ship-hats-migration#training) ready</li><li>Migration documentation launched</li></ul> | <br>**Completed**|
 | <br>Q1' FY22 | <ul><li>Complete tool procurement</li><li>Test with pilots (by invitation only)</li></ul> | <br>In progress |  
 | <br>Q2' FY22 | <ul><li>Announce tools and release pricing table</li><li>Launch SHIP-HATS 2.0 Webinars and Workshops</li><li>Roll-out SHIP-HATS 2.0 for new users:<ul><li>Migrate GovTech GDS teams to SHIP-HATS 2.0</li><li>Onboard new users to SHIP-HATS 2.0</li></ul></li></ul> | <br>To be started |  
 | <br>Q3' FY22 - Q2' FY23| <ul><li>Migrate current agency users from SHIP-HATS 1.0. to SHIP-HATS 2.0 in phases.</li></ul>| <br>To be started |  
