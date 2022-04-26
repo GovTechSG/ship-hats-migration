@@ -23,7 +23,7 @@ We recommend that you consider non-CII/SII systems that are deployed to GCC Inte
     1.	Verify that the clone is successful.
 1.	**Define success criteria for the CI/CD pipelines:**
     1. CI pipeline minimally checks out from source code repo, builds, performs SAST, Container scan (if applicable), SCA, DAST, and publishes packages to artifact repo.
-    1. CD pipeline minimally extracts packages from artifact repo, performs SCA, performs SCA, connects to target environment directly and through a remote agent in DevOps zone for GCC intranet and deploys.
+    1. CD pipeline minimally extracts packages from artifact repo, performs SCA, connects to target environment directly and through a remote agent in DevOps zone for GCC intranet and deploys.
 1.	**Configure and Test CI Pipeline:**
     1.	Configure dedicated agents.
     1.	Identify automated template from GovTech to set up CI pipeline and configured.
