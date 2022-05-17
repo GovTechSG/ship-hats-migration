@@ -21,14 +21,14 @@ This section provides a high level of overview of templates to expect for migrat
 
 We will update the link to templates after SHIP-HATS 2.0 is ready. You can bookmark this page as we will update details on existing and upcoming templates regularly.  
 
-Templates|Description|Template Type  
+|Templates|Description|Template Type|  
 |---|---|---|  
-.NET Application 	|An end-to-end CI pipeline for a sample .NET application hosted in Azure App Service| 	End-to-End  
-.NET Docker Application  	|An end-to-end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate | 	End-to-End  
+.NET Application |An end-to-end CI pipeline for a sample .NET application hosted in Azure App Service|End-to-End   
+.NET Docker Application|An end-to-end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate | 	End-to-End  
 Node.js Typescript Application 	|An end-to-end CI pipeline for sample Node.js typescript application hosted in Azure App Service | 	End-to-End  
-Java Application 	|An end-to-end CI pipeline for a sample Java application hosted in AWS EC2 | 	End-to-End  
-Java Docker Application  	|An end-to-end CI pipeline for a sample containerized Java application hosted in AWS EKS | 	End-to-End  
-Docker Pull from Nexus Repo 	|A modular template to pull a docker image through SHIP Nexus Repository docker-proxy. 	|Modular for Build & Release  
+Java Application|An end-to-end CI pipeline for a sample Java application hosted in AWS EC2 | 	End-to-End  
+Java Docker Application |An end-to-end CI pipeline for a sample containerized Java application hosted in AWS EKS | 	End-to-End  
+Docker Pull from Nexus Repo |A modular template to pull a docker image through SHIP Nexus Repository docker-proxy. 	|Modular for Build & Release  
 NPM Configuration for Nexus Repository 	|A modular template to set Nexus Repository as NPM config registry.|Modular for Build & Release   
 Maven artefacts publish to Nexus  	|A modular template to publish maven artefacts to SHIP's Nexus Repository.|Modular for Build & Release   
 Nexus IQ  	|A modular template to perform Nexus IQ scan on files or directories. 	|Modular for QA & Security   
