@@ -14,10 +14,10 @@ We will guide you through the internal processes such as estimating migration ef
 4.	**Let us know:** If you have dependencies that are time sensitive, [log a ticket](http://go.gov.sg/she) with description of the systems, the time constraints, and information that you require. We will engage on a case-by-case basis for urgent requirements. 
 
 ## Upcoming Migration Updates
-
+<!--
 ### Q1 FY22
 1. Share details on types of pipeline templates from GovTech.
-
+-->
 ### Q2 FY22
 
 1. Announce tools in SHIP-HATS 2.0 and release pricing details.

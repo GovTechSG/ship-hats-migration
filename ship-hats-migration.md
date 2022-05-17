@@ -25,8 +25,7 @@ Agencies can opt for 4, 6, or 12 week Sandbox Migration depending on your DevSec
 
 ### Configure using Templates
 
-We will provide a library of SHIP-HATS pipeline templates that will simplify the effort to configure the pipeline.
-These templates will have best practices in security compliance and performance metrics baked in. The templates will include use-case based and modular templates.
+We will provide a library of SHIP-HATS [Pipeline templates](pipeline-templates) that will simplify the effort to configure the pipeline. These templates will include the best practices in security compliance and the performance metrics. 
 
 ### Flow
 We will test this flow during our 2.0 migration pilots and iteratively improve on it. Based on these tests, we can offer recommendations on effort estimation for your systems.  
