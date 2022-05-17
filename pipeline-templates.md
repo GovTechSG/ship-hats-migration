@@ -21,8 +21,8 @@ This section provides a high level of overview of templates to expect for migrat
 
 We will update the link to templates after SHIP-HATS 2.0 is ready. You can bookmark this page as we will update details on existing and upcoming templates regularly.  
 
-Templates|Description|Template Type
-|---|---|---|
+Templates|Description|Template Type  
+|---|---|---|  
 .NET Application 	|An end-to-end CI pipeline for a sample .NET application hosted in Azure App Service| 	End-to-End  
 .NET Docker Application  	|An end-to-end CI pipeline for sample containerized .NET Core application hosted in AWS Fargate | 	End-to-End  
 Node.js Typescript Application 	|An end-to-end CI pipeline for sample Node.js typescript application hosted in Azure App Service | 	End-to-End  
