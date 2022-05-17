@@ -2,6 +2,7 @@
     - [Overview](ship-hats-migration-overview)
     - [What to Expect](ship-hats-migration-what-to-expect)
     - [Migration Approach](ship-hats-migration)
+    - [Templates](pipeline-templates)
     - [Change Management](ship-hats-migration-change-management)
     - [Annex](ship-hats-migration-annex)
 
