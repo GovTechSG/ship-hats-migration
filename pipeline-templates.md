@@ -37,7 +37,7 @@ Fortify On Demand SAST 	|A modular template to analyze application source code f
 Fortify On Demand DAST 	|A modular template to identify vulnerabilities in deployed web applications and services. |Modular for QA & Security
 SonarQube 	|A modular template to analyze source code and provide analysis for the code quality of a project. |Modular for QA & Security
 Prisma container image scan  	|A modular template to scan container images for potential vulnerabilities. |Modular for QA & Security
-Purple Hats 	|A modular template to assess whether a product is user-friendly to people with disabilities (PWDs). |Modular for QA & Security  
+Purple HATS 	|A modular template to assess whether a product is user-friendly to people with disabilities (PWDs). |Modular for QA & Security  
 Readiness check for web application| 	A modular template to check if a web application is ready by querying the URL and searching for a given text in a loop until a given wait duration. 	|Other Modular templates 
 Azure Command Line Interface 	|A modular template to invoke Azure CLI commands. |Other Modular templates 
 Depcheck for NPM Projects 	|A modular template to perform depcheck for NPM projects to identify unused dependencies. |Other Modular templates 
