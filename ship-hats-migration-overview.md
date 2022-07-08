@@ -33,3 +33,15 @@ We are taking the opportunity to move to a SaaS model that enables you to enjoy 
 - **Ease of access:** Secure and VPN-less access to the SHIP-HATS 2.0 platform  
 
 >**Note:** The benefits will be rolled out in phases.
+
+<!--
+## Features
+
+- Saas with in-country hosting
+- Progressive and timely product roadmap and support
+- Ease of compliance
+- Dashboarding Capabilities for DORA Metrics and Security Findings
+- One-time migration
+
+
+-->
