@@ -5,7 +5,7 @@ We are upgrading to SHIP-HATS 2.0, a modern and updated CI/CD Platform on Softwa
 **Topics**
 - [Timelines](#timelines)
 - [Pricing](#pricing)
-- [Tools available on SHIP-HATS Portal](#tools-available-on-ship-hats-portal)
+- [Tools available on Portal](#tools-available-on-portal)
 - [Staggered Migration](#staggered-migration)
 - [Summary](#summary)
 
@@ -18,7 +18,7 @@ Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll ou
 ## Pricing
 For all planning purposes, you can refer to current [Standard Pricing](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/ship/_layouts/15/start.aspx#/SitePages/Pricing.aspx) (can be accessed by Public Officers on the Intranet). We will announce the details on the new subscription prices by early Q2’ FY22. We will help Agencies migrate the current subscription to SHIP-HATS 2.0 subscription model including signing of an updated Service Agreements. 
 
-## Tools available on SHIP-HATS Portal
+## Tools available on Portal
 
 ![SHIP-HATS Portal Tools](portal-tools-v1-v2.png)
 
