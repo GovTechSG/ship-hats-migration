@@ -33,8 +33,8 @@ In Q3' FY22, we will be inviting Agencies to start migration. For more informati
 | **Timeline** | **Key Milestone** | **Status** |
 | --- | --- | --- |
 | <br>Q4' FY21 | <ul><li>SaaS CI/CD tool evaluation completed</li><li>High-level [migration approach](ship-hats-migration#migration) ready</li><li>[Training approach](ship-hats-migration#training) ready</li><li>Migration documentation launched</li></ul> | <br>**Completed**|
-| <br>Q1' FY22 | <ul><li>Complete tool procurement</li><li>Test with pilots (by invitation only)</li></ul> | <br>In progress |  
-| <br>Q2' FY22 | <ul><li>Announce tools and release pricing table</li><li>Launch SHIP-HATS 2.0 Webinars and Workshops</li><li>Roll-out SHIP-HATS 2.0 for new users:<ul><li>Migrate GovTech GDS teams to SHIP-HATS 2.0</li><li>Onboard new users to SHIP-HATS 2.0</li></ul></li></ul> | <br>To be started |  
+| <br>Q1' FY22 | <ul><li>Complete tool procurement</li></ul> | <br>**Completed** |  
+| <br>Q2' FY22 | <ul><li>Announce tools and release pricing table</li><li>Test with pilots (by invitation only)</li><li>Launch SHIP-HATS 2.0 Webinars and Workshops</li><li>Roll-out SHIP-HATS 2.0 for new users:<ul><li>Migrate GovTech GDS teams to SHIP-HATS 2.0</li><li>Onboard new users to SHIP-HATS 2.0</li></ul></li></ul> | <br>To be started |  
 | <br>Q3' FY22 - Q2' FY23| <ul><li>Migrate current agency users from SHIP-HATS 1.0. to SHIP-HATS 2.0 in phases.</li></ul>| <br>To be started |  
 
 **Support for SHIP-HATS 1.0 will continue for at least 1 year from the roll out of SHIP-HATS 2.0 for all users.**
