@@ -23,8 +23,8 @@ For all planning purposes, you can refer to current [Standard Pricing](https://s
 ![SHIP-HATS Portal Tools](portal-tools-v1-v2.png)
 
 ## Staggered Migration
-
-We want our users to have minimal disruptions. Therefore, we are taking a careful approach of doing several pilots in Q1' FY22 to shape the migration strategy. We will then test the same on GovTech Government Digital Services (GDS) customers on SHIP-HATS in Q2' FY22 and further fine tune.  
+ 
+We want our users to have minimal disruptions. We will fine tune the migration steps during pilots. We will open appointment slots for migration planning in Q2 and SHIP-HATS 2.0 will be open for all from November. 
 
 In Q3' FY22, we will be inviting Agencies to start migration. For more information on how to choose projects for migration, refer to [System for Early Migration](ship-hats-migration-annex#systems-for-early-migration) in the Annex section. 
 
