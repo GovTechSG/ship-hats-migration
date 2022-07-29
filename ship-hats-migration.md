@@ -39,7 +39,7 @@ We will test this flow during our 2.0 migration pilots and iteratively improve o
 1.	Use the templates from GovTech to configure CD Pipeline.
 1.	Test run CD Pipeline with at least a deployment to UAT/pre-production environments.  
 
->**Note:** The pipeline(s) configured in Sandbox Migration will be reused and adapted for 2.0 Migration. 
+?> **Note:** The pipeline(s) configured in Sandbox Migration will be reused and adapted for 2.0 Migration. 
 
 For more information, refer to [Annex: Sandbox Testing Flow Details](ship-hats-migration-annex#sandbox-testing-flow-details).
 
