@@ -11,7 +11,7 @@ We are upgrading to SHIP-HATS 2.0, a modern and updated CI/CD Platform on Softwa
 
 ## Timelines
 
-We have completed evaluating SaaS-based CI/CD tools based on factors such as product offering, migration effort, feature roadmap, and SaaS hosting in Singapore. The procurement process is in progress. We are on track to pilot and test SHIP-HATS 2.0 in Q1' FY22. The pilots are by invitation only. 
+We have completed evaluating SaaS-based CI/CD tools based on factors such as product offering, migration effort, feature roadmap, and SaaS hosting in Singapore. The procurement process is in progress.  
 
 Support for SHIP-HATS 1.0 will continue for **at least 1 year** from the roll out of SHIP-HATS 2.0 for all users. 
 
@@ -36,4 +36,4 @@ In Q3' FY22, we will be inviting Agencies to start migration. For more informati
 | <br>Q1' FY22 | <ul><li>Complete tool procurement</li></ul> | <br>**Completed** |  
 | <br>Q2' FY22 | <ul><li>SHIP-HATS 2.0 Announcement</li><li>Test with pilots (by invitation only)</li><li>Launch SHIP-HATS 2.0 Training</li><li>Open Migration Booking slots</li></ul>| <br>To be started |  
 
-**Support for SHIP-HATS 1.0 will continue for at least 1 year from the roll out of SHIP-HATS 2.0 for all users.**
+?> **Support for SHIP-HATS 1.0 will continue for at least 1 year from the roll out of SHIP-HATS 2.0 for all users.**
