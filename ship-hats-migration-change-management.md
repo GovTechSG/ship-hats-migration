@@ -23,4 +23,4 @@ We will guide you through the internal processes such as estimating migration ef
 
 - **SHIP-HATS 2.0 Briefing** is slated for 19th August 10 AM – 12 PM. The session will provide an overview of the tools, update on pricing, and next steps to plan migration. Look out for the email with details next week!
 - **Pilots on SHIP-HATS 2.0** will start early September. They are by invitation only as we have limited features and support during this phase.
-- **New subscriptions** will be on SHIP-HATS 2.0 from November. If you have projects that must start earlier, please email us to discuss further. The SHIP-HATS team can assess the project complexity to help plan the onboarding.
+- **New subscriptions** will be on SHIP-HATS 2.0 from November. If you have projects that must start earlier, please [log a ticket](http://go.gov.sg/she) to discuss further. The SHIP-HATS team can assess the project complexity to help plan the onboarding.
