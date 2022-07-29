@@ -1,6 +1,6 @@
 # SHIP-HATS Migration Overview
 
-We are upgrading to SHIP-HATS 2.0 to a modern and updated CI/CD Platform on Software-as-a-Service (SaaS), offering a more seamless experience for Agencies to implement an end-to-end CI/CD solution.
+We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, offering a seamless experience for Agencies to implement an end-to-end SaaS-based CI/CD solution.
 
 **Topics**
 - [Change Summary](#change-summary)
@@ -12,8 +12,8 @@ We are upgrading to SHIP-HATS 2.0 to a modern and updated CI/CD Platform on Soft
 | **Tools** | **Change** |
 | --- | --- |
 | <ul><li>Bitbucket</li><li>Bamboo</li><li>Digital.ai</li></ul> | <br><br><br>GitLab |  
-| <ul><li>Fortify SCA</li><li>WebInspect</li></ul> | <br><br>SAAS-based Fortify on-demand |  
-|<ul><li>Jira </li><li>Confluence </li></ul>|<br><br>SaaS based Jira & Confluence|
+| <ul><li>Fortify SCA</li><li>WebInspect</li></ul> | <br><br>SaaS-based Fortify on-demand |  
+|<ul><li>Jira </li><li>Confluence </li></ul>|<br><br>SaaS-based Jira & Confluence|
 | <ul><li>Nexus IQ </li><li>Nexus Repository Pro </li><li>pCloudy Test Farm </li><li>SonarQube </li><li>Prisma Cloud </li></ul> | <br><br><br><br><br>No change |  
 
 ### Pipeline Definition Format
@@ -27,12 +27,12 @@ We are taking the opportunity to move to a SaaS model that enables you to enjoy 
 
 ## Key Benefits
 
-- **A modernized and updated CI/CD platform:** Stronger integration of CI and CD tools making it easier for agencies to adopt CD  
+- **A modernized and updated CI/CD platform:** Stronger integration of CI and CD tools making it easier for agencies to adopt CD using GitLab 
 - **Ease of compliance:** Automated DevSecOps capabilities and pipeline-as-a-code to comply with the new DevSecOps Policy easily 
 - **Performance Management Dashboard:** Value-Stream Measurement capabilities that allow Agencies to capture key industry metrics, such as lead time to deployment and deployment frequency, to monitor the effectiveness of their DevSecOps practices 
 - **Ease of access:** Secure and VPN-less access to the SHIP-HATS 2.0 platform  
 
->**Note:** The benefits will be rolled out in phases.
+?> **Note:** The benefits will be rolled out in phases.
 
 <!--
 ## Features

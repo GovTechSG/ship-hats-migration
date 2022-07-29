@@ -17,7 +17,7 @@ Following types of templates will be provided:
 
 ## List of Templates  
 
-This section provides a high level of overview of templates to expect for migrating to SHIP-HATS 2.0 to help the agencies plan while the procurement is in progress.
+This section provides a high level of overview of templates to expect for migrating to SHIP-HATS 2.0 to help the agencies plan the migration.
 
 We will update the link to templates after SHIP-HATS 2.0 is ready. You can bookmark this page as we will update details on existing and upcoming templates regularly.  
 
