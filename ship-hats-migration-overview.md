@@ -9,13 +9,15 @@ We are upgrading to SHIP-HATS 2.0. **SHIP-HATS 2.0 will be running on GitLab**, 
 
 ## Change Summary
 
+![Tools](tools.png)
+<!--
 | **Tools** | **Change** |
 | --- | --- |
 | <ul><li>Bitbucket</li><li>Bamboo</li><li>Digital.ai</li></ul> | <br><br><br>GitLab |  
 | <ul><li>Fortify SCA</li><li>WebInspect</li></ul> | <br><br>SaaS-based Fortify on-demand |  
 |<ul><li>Jira </li><li>Confluence </li></ul>|<br><br>SaaS-based Jira & Confluence|
 | <ul><li>Nexus IQ </li><li>Nexus Repository Pro </li><li>pCloudy Test Farm </li><li>SonarQube </li><li>Prisma Cloud </li></ul> | <br><br><br><br><br>No change |  
-
+-->
 ### Pipeline Definition Format
 
 CI/CD pipeline in SHIP-HATS 2.0 uses [YAML](https://en.wikipedia.org/wiki/YAML) for configuration. 
